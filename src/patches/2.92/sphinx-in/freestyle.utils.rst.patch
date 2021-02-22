@@ -1,0 +1,11 @@
+--- gen_module-tmp/sphinx-in.orig/freestyle.utils.rst	2021-02-22 14:31:25.190925797 +0900
++++ gen_module-tmp/sphinx-in/freestyle.utils.rst	2021-02-22 14:33:15.517845900 +0900
+@@ -45,7 +45,7 @@ writing.
+    :rtype: int or float
+ 
+ 
+-.. function:: angle_x_normal(it: Interface0DIterator)
++.. function:: angle_x_normal(it)
+ 
+    unsigned angle between a Point's normal and the X axis, in radians
+ 
